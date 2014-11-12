@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lumos Settings App</string>
+    <string name="lumos_activity">Lumos</string>
+    <string name="nox_activity">Nox</string>
+    <string name="title_activity_lumos">LumosActivity</string>
+    <string name="title_activity_nox">NoxActivity</string>
+    <string name="title_activity_lumos_brightness">Brightness</string>
+    <string name="title_activity_timer_wear">TimerWearActivity</string>
+
+</resources>

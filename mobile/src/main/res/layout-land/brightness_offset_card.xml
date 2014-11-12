@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:layout_gravity="center_vertical">
+
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:text="@string/brightness_offset_label"
+        android:layout_weight=".3"
+        android:gravity="center_vertical" />
+
+    <TextSwitcher
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:measureAllChildren="true"
+        android:id="@+id/brightnessOffsetTextValue"
+        android:layout_weight=".1"
+        android:layout_gravity="center_vertical|end"
+        tools:text="255" />
+
+    <SeekBar
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:id="@+id/brightnessOffsetSeekBar"
+        android:max="255"
+        android:layout_weight="1" />
+</LinearLayout>

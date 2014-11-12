@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#323F82</color>
+    <color name="primary">#EE8730</color>
+    <color name="secondary">#F8C539</color>
+
+    <color name="primary_button_active">#335ce2</color>
+    <color name="primary_button_pressed">#2850bf</color>
+    <color name="secondary_button_active">#323f82</color>
+    <color name="secondary_button_pressed">#263268</color>
+    <color name="progressbar_background">#5d6377</color>
+    <color name="progressbar_foreground">#8690a5</color>
+</resources>
