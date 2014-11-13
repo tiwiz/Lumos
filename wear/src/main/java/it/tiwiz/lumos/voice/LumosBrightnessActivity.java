@@ -2,7 +2,6 @@ package it.tiwiz.lumos.voice;
 
 import android.content.Context;
 import android.os.Bundle;
-import android.support.wearable.view.WatchViewStub;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.ProgressBar;

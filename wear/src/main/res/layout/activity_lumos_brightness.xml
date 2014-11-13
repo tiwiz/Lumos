@@ -14,12 +14,13 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:text=""
-            android:src="@drawable/lumos_sun"
+            android:src="@drawable/primary_button_foreground"
             android:background="@drawable/primary_button_background"
             android:id="@+id/btnIncreaseBrightness"
             android:layout_weight="1"
             android:scaleType="centerInside"
-            android:padding="15dp" />
+            android:padding="18dp"
+            android:textAlignment="center"/>
 
         <ProgressBar
             style="?android:attr/progressBarStyleHorizontal"
@@ -29,17 +30,18 @@
             android:id="@+id/brightnessBar"
             android:layout_gravity="center_horizontal"
             android:max="255"
-            android:layout_weight=".1" />
+            android:layout_weight=".075" />
 
         <ImageButton
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:src="@drawable/lumos_moon"
+            android:src="@drawable/secondary_button_foreground"
             android:background="@drawable/secondary_button_background"
             android:id="@+id/btnDecreaseBrightness"
             android:layout_weight="1"
             android:scaleType="centerInside"
-            android:padding="20dp" />
+            android:padding="20dp"
+            android:textAlignment="center"/>
 
     </LinearLayout>
 
