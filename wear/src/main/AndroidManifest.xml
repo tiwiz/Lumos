@@ -24,20 +24,10 @@
         <activity
             android:name="it.tiwiz.lumos.voice.LumosActivity"
             android:label="Lumos" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="it.tiwiz.lumos.voice.NoxActivity"
             android:label="Nox" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="it.tiwiz.lumos.voice.LumosBrightnessActivity"

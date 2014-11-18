@@ -2,10 +2,11 @@
 <resources>
 
     <string name="app_name">Lumos</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="brightness_offset_label">Brightness offset</string>
-    <string name="lumos_label">Lumos</string>
-    <string name="nox_label">Nox</string>
+    <string name="brightness_offset_label" translatable="false">Brightness offset</string>
+    <string name="lumos_label" translatable="false">Lumos</string>
+    <string name="nox_label" translatable="false">Nox</string>
+    <string name="temporary_warning_text">Don\'t look at me, the important thing is on your wrist!</string>
 
 </resources>

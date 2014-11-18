@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lumos</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="temporary_warning_text">Schau mich nicht an, das ist das Wichtigste an Deinem Handgelenk!</string>
+</resources>

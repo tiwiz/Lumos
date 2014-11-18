@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lumos</string>
+    <string name="action_settings">R&#233;glages</string>
+    <string name="temporary_warning_text">Pas la peine de regarder ici, les choses s&#233;rieuses se passent &#224; ton poignet!</string>
+</resources>
